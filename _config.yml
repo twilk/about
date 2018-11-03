@@ -18,8 +18,8 @@ avatar: https://raw.githubusercontent.com/twilk/jekyll-now/master/images/jekyll-
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
-  facebook:
+  email: wilczyy@gmail.com
+  facebook: https://www.facebook.com/Wilczyy
   flickr:
   github: twilk/jekyll-now
   instagram:
@@ -41,7 +41,7 @@ google_analytics:
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url: http://twilk.github.io
+url: http://twilk.github.io/about
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
